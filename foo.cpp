@@ -1,6 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
 
+/*
+ * Main routine that does little or nothing.
+ */
 int main(int nArg, char **arg)
 {
   if (nArg > 1) {
